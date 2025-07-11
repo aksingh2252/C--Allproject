@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\Desktop\\C#\\Scenario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95832E8A-A57B-441A-AA08-DC2D31702953}|Scenario\\Scenario.csproj|c:\\users\\ankit\\desktop\\c#\\scenario\\scenario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95832E8A-A57B-441A-AA08-DC2D31702953}|Scenario\\Scenario.csproj|solutionrelative:scenario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\C#\\Scenario\\Scenario\\Program.cs",
+              "RelativeDocumentMoniker": "Scenario\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\C#\\Scenario\\Scenario\\Program.cs",
+              "RelativeToolTip": "Scenario\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:19:06.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

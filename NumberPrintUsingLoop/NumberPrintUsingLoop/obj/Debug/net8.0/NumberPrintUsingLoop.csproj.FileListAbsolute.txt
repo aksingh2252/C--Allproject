@@ -1,0 +1,14 @@
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\bin\Debug\net8.0\NumberPrintUsingLoop.exe
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\bin\Debug\net8.0\NumberPrintUsingLoop.deps.json
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\bin\Debug\net8.0\NumberPrintUsingLoop.runtimeconfig.json
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\bin\Debug\net8.0\NumberPrintUsingLoop.dll
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\bin\Debug\net8.0\NumberPrintUsingLoop.pdb
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\obj\Debug\net8.0\NumberPrintUsingLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\obj\Debug\net8.0\NumberPrintUsingLoop.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\obj\Debug\net8.0\NumberPrintUsingLoop.AssemblyInfo.cs
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\obj\Debug\net8.0\NumberPrintUsingLoop.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\obj\Debug\net8.0\NumberPrintUsingLoop.dll
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\obj\Debug\net8.0\refint\NumberPrintUsingLoop.dll
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\obj\Debug\net8.0\NumberPrintUsingLoop.pdb
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\obj\Debug\net8.0\NumberPrintUsingLoop.genruntimeconfig.cache
+C:\Users\ankit\Desktop\C#\NumberPrintUsingLoop\NumberPrintUsingLoop\obj\Debug\net8.0\ref\NumberPrintUsingLoop.dll

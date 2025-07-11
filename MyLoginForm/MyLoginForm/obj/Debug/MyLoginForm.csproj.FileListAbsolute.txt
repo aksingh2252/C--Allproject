@@ -1,0 +1,13 @@
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\bin\Debug\MyLoginForm.exe.config
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\bin\Debug\MyLoginForm.exe
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\bin\Debug\MyLoginForm.pdb
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.csproj.GenerateResource.cache
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.exe
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.pdb
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.Form1.resources
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\bin\Debug\LoginAuth.dll
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\bin\Debug\LoginAuth.pdb
+C:\Users\ankit\Desktop\C#\MyLoginForm\MyLoginForm\obj\Debug\MyLoginF.35180706.Up2Date

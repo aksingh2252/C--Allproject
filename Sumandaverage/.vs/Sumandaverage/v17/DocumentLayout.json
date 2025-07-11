@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\Desktop\\C#\\Sumandaverage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9686C7C7-97C2-499B-A54E-1851AF7921BE}|Sumandaverage\\Sumandaverage.csproj|c:\\users\\ankit\\desktop\\c#\\sumandaverage\\sumandaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9686C7C7-97C2-499B-A54E-1851AF7921BE}|Sumandaverage\\Sumandaverage.csproj|solutionrelative:sumandaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\C#\\Sumandaverage\\Sumandaverage\\Program.cs",
+              "RelativeDocumentMoniker": "Sumandaverage\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\C#\\Sumandaverage\\Sumandaverage\\Program.cs",
+              "RelativeToolTip": "Sumandaverage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:37:12.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

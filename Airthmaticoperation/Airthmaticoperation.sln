@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airthmaticoperation", "Airthmaticoperation\Airthmaticoperation.csproj", "{40B9C9D6-2934-423D-A77C-E8CA68125FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap", "..\Swap\Swap.csproj", "{C61D8890-2EC5-4105-84F4-F0F2A42631CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B9C9D6-2934-423D-A77C-E8CA68125FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B9C9D6-2934-423D-A77C-E8CA68125FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B9C9D6-2934-423D-A77C-E8CA68125FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B9C9D6-2934-423D-A77C-E8CA68125FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61D8890-2EC5-4105-84F4-F0F2A42631CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61D8890-2EC5-4105-84F4-F0F2A42631CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61D8890-2EC5-4105-84F4-F0F2A42631CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61D8890-2EC5-4105-84F4-F0F2A42631CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7355B59E-80A6-42EC-ABEF-9127D5F1E84A}
+	EndGlobalSection
+EndGlobal

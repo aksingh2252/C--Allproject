@@ -1,0 +1,5 @@
+C:\Users\ankit\Desktop\C#\Calculaterdl\CalculaterProfile\obj\Debug\CalculaterProfile.vbproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\C#\Calculaterdl\CalculaterProfile\obj\Debug\CalculaterProfile.Calculater.resources
+C:\Users\ankit\Desktop\C#\Calculaterdl\CalculaterProfile\obj\Debug\CalculaterProfile.Resources.resources
+C:\Users\ankit\Desktop\C#\Calculaterdl\CalculaterProfile\obj\Debug\CalculaterProfile.vbproj.GenerateResource.cache
+C:\Users\ankit\Desktop\C#\Calculaterdl\CalculaterProfile\obj\Debug\CalculaterProfile.vbproj.CoreCompileInputs.cache

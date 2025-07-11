@@ -1,0 +1,14 @@
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\obj\Debug\net8.0\PattenProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\obj\Debug\net8.0\PattenProgram.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\obj\Debug\net8.0\PattenProgram.AssemblyInfo.cs
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\obj\Debug\net8.0\PattenProgram.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\bin\Debug\net8.0\PattenProgram.exe
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\bin\Debug\net8.0\PattenProgram.deps.json
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\bin\Debug\net8.0\PattenProgram.runtimeconfig.json
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\bin\Debug\net8.0\PattenProgram.dll
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\bin\Debug\net8.0\PattenProgram.pdb
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\obj\Debug\net8.0\PattenProgram.dll
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\obj\Debug\net8.0\refint\PattenProgram.dll
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\obj\Debug\net8.0\PattenProgram.pdb
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\obj\Debug\net8.0\PattenProgram.genruntimeconfig.cache
+C:\Users\ankit\Desktop\C#\PattenProgram\PattenProgram\obj\Debug\net8.0\ref\PattenProgram.dll

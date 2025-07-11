@@ -1,0 +1,14 @@
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\obj\Debug\net8.0\fibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\obj\Debug\net8.0\fibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\obj\Debug\net8.0\fibonacciSeries.AssemblyInfo.cs
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\obj\Debug\net8.0\fibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\bin\Debug\net8.0\fibonacciSeries.exe
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\bin\Debug\net8.0\fibonacciSeries.deps.json
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\bin\Debug\net8.0\fibonacciSeries.runtimeconfig.json
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\bin\Debug\net8.0\fibonacciSeries.dll
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\bin\Debug\net8.0\fibonacciSeries.pdb
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\obj\Debug\net8.0\fibonacciSeries.dll
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\obj\Debug\net8.0\refint\fibonacciSeries.dll
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\obj\Debug\net8.0\fibonacciSeries.pdb
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\obj\Debug\net8.0\fibonacciSeries.genruntimeconfig.cache
+C:\Users\ankit\Desktop\C#\fibonacciSeries\fibonacciSeries\obj\Debug\net8.0\ref\fibonacciSeries.dll

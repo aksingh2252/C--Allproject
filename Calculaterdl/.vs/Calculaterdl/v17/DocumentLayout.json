@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\Desktop\\C#\\Calculaterdl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D14CBB-BE6D-43E6-9B5D-2D012EE4174C}|CalculaterProfile\\CalculaterProfile.vbproj|c:\\users\\ankit\\desktop\\c#\\calculaterdl\\calculaterprofile\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28D14CBB-BE6D-43E6-9B5D-2D012EE4174C}|CalculaterProfile\\CalculaterProfile.vbproj|solutionrelative:calculaterprofile\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D14CBB-BE6D-43E6-9B5D-2D012EE4174C}|CalculaterProfile\\CalculaterProfile.vbproj|c:\\users\\ankit\\desktop\\c#\\calculaterdl\\calculaterprofile\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28D14CBB-BE6D-43E6-9B5D-2D012EE4174C}|CalculaterProfile\\CalculaterProfile.vbproj|solutionrelative:calculaterprofile\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005DDC68-9155-4520-8B3C-49CF27C608F4}|Calculaterdl\\Calculaterdl.csproj|c:\\users\\ankit\\desktop\\c#\\calculaterdl\\calculaterdl\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005DDC68-9155-4520-8B3C-49CF27C608F4}|Calculaterdl\\Calculaterdl.csproj|solutionrelative:calculaterdl\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculater.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\C#\\Calculaterdl\\Calculaterdl\\Calculater.cs",
+              "RelativeDocumentMoniker": "Calculaterdl\\Calculater.cs",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\C#\\Calculaterdl\\Calculaterdl\\Calculater.cs",
+              "RelativeToolTip": "Calculaterdl\\Calculater.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:09:02.35Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\C#\\Calculaterdl\\CalculaterProfile\\Form1.vb",
+              "RelativeDocumentMoniker": "CalculaterProfile\\Form1.vb",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\C#\\Calculaterdl\\CalculaterProfile\\Form1.vb",
+              "RelativeToolTip": "CalculaterProfile\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T19:51:08.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\C#\\Calculaterdl\\CalculaterProfile\\Form1.vb",
+              "RelativeDocumentMoniker": "CalculaterProfile\\Form1.vb",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\C#\\Calculaterdl\\CalculaterProfile\\Form1.vb [Design]",
+              "RelativeToolTip": "CalculaterProfile\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T19:50:39.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

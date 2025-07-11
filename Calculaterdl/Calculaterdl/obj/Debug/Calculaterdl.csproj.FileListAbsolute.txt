@@ -1,0 +1,6 @@
+C:\Users\ankit\Desktop\C#\Calculaterdl\Calculaterdl\bin\Debug\Calculaterdl.dll
+C:\Users\ankit\Desktop\C#\Calculaterdl\Calculaterdl\bin\Debug\Calculaterdl.pdb
+C:\Users\ankit\Desktop\C#\Calculaterdl\Calculaterdl\obj\Debug\Calculaterdl.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\C#\Calculaterdl\Calculaterdl\obj\Debug\Calculaterdl.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\C#\Calculaterdl\Calculaterdl\obj\Debug\Calculaterdl.dll
+C:\Users\ankit\Desktop\C#\Calculaterdl\Calculaterdl\obj\Debug\Calculaterdl.pdb

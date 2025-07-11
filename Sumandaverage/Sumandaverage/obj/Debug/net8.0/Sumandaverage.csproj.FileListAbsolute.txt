@@ -1,0 +1,14 @@
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\bin\Debug\net8.0\Sumandaverage.exe
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\bin\Debug\net8.0\Sumandaverage.deps.json
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\bin\Debug\net8.0\Sumandaverage.runtimeconfig.json
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\bin\Debug\net8.0\Sumandaverage.dll
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\bin\Debug\net8.0\Sumandaverage.pdb
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\obj\Debug\net8.0\Sumandaverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\obj\Debug\net8.0\Sumandaverage.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\obj\Debug\net8.0\Sumandaverage.AssemblyInfo.cs
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\obj\Debug\net8.0\Sumandaverage.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\obj\Debug\net8.0\Sumandaverage.dll
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\obj\Debug\net8.0\refint\Sumandaverage.dll
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\obj\Debug\net8.0\Sumandaverage.pdb
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\obj\Debug\net8.0\Sumandaverage.genruntimeconfig.cache
+C:\Users\ankit\Desktop\C#\Sumandaverage\Sumandaverage\obj\Debug\net8.0\ref\Sumandaverage.dll

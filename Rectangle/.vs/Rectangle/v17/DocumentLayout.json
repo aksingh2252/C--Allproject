@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\Desktop\\C#\\Rectangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4087B0DE-BC76-4416-9C1C-E6AE45D5DA28}|Rectangle\\Rectangle.csproj|c:\\users\\ankit\\desktop\\c#\\rectangle\\rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4087B0DE-BC76-4416-9C1C-E6AE45D5DA28}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\C#\\Rectangle\\Rectangle\\Program.cs",
+              "RelativeDocumentMoniker": "Rectangle\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\C#\\Rectangle\\Rectangle\\Program.cs",
+              "RelativeToolTip": "Rectangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:39:48.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

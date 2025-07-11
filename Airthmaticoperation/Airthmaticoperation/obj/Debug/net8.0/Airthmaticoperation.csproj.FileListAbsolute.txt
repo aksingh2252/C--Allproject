@@ -1,0 +1,14 @@
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\obj\Debug\net8.0\Airthmaticoperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\obj\Debug\net8.0\Airthmaticoperation.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\obj\Debug\net8.0\Airthmaticoperation.AssemblyInfo.cs
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\obj\Debug\net8.0\Airthmaticoperation.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\bin\Debug\net8.0\Airthmaticoperation.exe
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\bin\Debug\net8.0\Airthmaticoperation.deps.json
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\bin\Debug\net8.0\Airthmaticoperation.runtimeconfig.json
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\bin\Debug\net8.0\Airthmaticoperation.dll
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\bin\Debug\net8.0\Airthmaticoperation.pdb
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\obj\Debug\net8.0\Airthmaticoperation.dll
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\obj\Debug\net8.0\refint\Airthmaticoperation.dll
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\obj\Debug\net8.0\Airthmaticoperation.pdb
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\obj\Debug\net8.0\Airthmaticoperation.genruntimeconfig.cache
+C:\Users\ankit\Desktop\C#\Airthmaticoperation\Airthmaticoperation\obj\Debug\net8.0\ref\Airthmaticoperation.dll

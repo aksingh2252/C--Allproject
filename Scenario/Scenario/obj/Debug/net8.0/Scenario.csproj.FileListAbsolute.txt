@@ -1,0 +1,14 @@
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\bin\Debug\net8.0\Scenario.exe
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\bin\Debug\net8.0\Scenario.deps.json
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\bin\Debug\net8.0\Scenario.runtimeconfig.json
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\bin\Debug\net8.0\Scenario.dll
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\bin\Debug\net8.0\Scenario.pdb
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\obj\Debug\net8.0\Scenario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\obj\Debug\net8.0\Scenario.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\obj\Debug\net8.0\Scenario.AssemblyInfo.cs
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\obj\Debug\net8.0\Scenario.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\obj\Debug\net8.0\Scenario.dll
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\obj\Debug\net8.0\refint\Scenario.dll
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\obj\Debug\net8.0\Scenario.pdb
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\obj\Debug\net8.0\Scenario.genruntimeconfig.cache
+C:\Users\ankit\Desktop\C#\Scenario\Scenario\obj\Debug\net8.0\ref\Scenario.dll

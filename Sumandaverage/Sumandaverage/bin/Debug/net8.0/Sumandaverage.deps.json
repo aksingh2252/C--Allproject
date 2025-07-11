@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sumandaverage/1.0.0": {
+        "runtime": {
+          "Sumandaverage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sumandaverage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

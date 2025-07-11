@@ -1,0 +1,14 @@
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\bin\Debug\net8.0\StaticandNonstatic.exe
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\bin\Debug\net8.0\StaticandNonstatic.deps.json
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\bin\Debug\net8.0\StaticandNonstatic.runtimeconfig.json
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\bin\Debug\net8.0\StaticandNonstatic.dll
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\bin\Debug\net8.0\StaticandNonstatic.pdb
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\obj\Debug\net8.0\StaticandNonstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\obj\Debug\net8.0\StaticandNonstatic.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\obj\Debug\net8.0\StaticandNonstatic.AssemblyInfo.cs
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\obj\Debug\net8.0\StaticandNonstatic.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\obj\Debug\net8.0\StaticandNonstatic.dll
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\obj\Debug\net8.0\refint\StaticandNonstatic.dll
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\obj\Debug\net8.0\StaticandNonstatic.pdb
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\obj\Debug\net8.0\StaticandNonstatic.genruntimeconfig.cache
+C:\Users\ankit\Desktop\C#\StaticandNonstatic\StaticandNonstatic\obj\Debug\net8.0\ref\StaticandNonstatic.dll
